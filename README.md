@@ -4,7 +4,9 @@ SSC is a command line DXBC/DXIL/SPIR-V shader compiler. Its purpose is to simpli
 
 ## Usage
 
-ssc.exe \<option\> -arg1 param -arg2
+```
+ssc.exe <option> -arg1 param -arg2
+```
 
 ## Options
 
